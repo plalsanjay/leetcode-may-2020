@@ -1,7 +1,7 @@
 # leetcode-may-2020
--30 day challenge
--FirstBadVersion
--JewelsAndStones
+- 30 day challenge
+- FirstBadVersion
+- JewelsAndStones
 NumberCompliment
 First Unique Character In String
 Majority Element
