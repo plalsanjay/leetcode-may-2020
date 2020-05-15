@@ -11,3 +11,5 @@
 9. Find The Town Judge
 10. Flood Fill (4directionally connected filling in 2d array or matrix)
 11. Single Element in Sorted Array
+12. Remove K Digits From String
+13. Implement Trie (Prefix Tree)
